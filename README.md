@@ -22,5 +22,5 @@ Please contribute, file issues, and make PRs. More than anything I'm sure there 
 MIT 
 
 [gh-page]: http://btholt.github.io/complete-intro-to-react/
-[demo]: https://svideo-qegyrlpfeu.now.sh/
+[demo]: https://svideo-eiogfaqdky.now.sh
 [features]: http://btholt.github.io/complete-intro-to-react/page/landing/
